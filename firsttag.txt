@@ -1,0 +1,2 @@
+We will create first tag after this commit.
+It will be a lightweight tag.
