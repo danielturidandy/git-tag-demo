@@ -1,0 +1,3 @@
+This is the second file in the new tag
+We will make a commit and save it into a new branch.
+This temp commit will then be in the new branch, but not in the tag.
