@@ -1,0 +1,3 @@
+First commit in master after annotated tag.
+It will remain there.
+
